@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | AI & ML Graduate | Python • SQL • Power BI</h3>
 
 <p align="center">
-  <a href="linkedin.com/in/vennala-y-b84684315"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/vennala-y-b84684315"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vennalay288@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -92,13 +92,13 @@
 
 ### 📌 Featured Projects
 
-- **[AI Resume Skill Gap Analyzer](https://github.com/your-username/repo-link)**  
+- **[AI Resume Skill Gap Analyzer](https://github.com/vennala488/skilllens.git)**  
   NLP & Generative AI tool that compares resumes with job descriptions using semantic similarity and keyword extraction.
 
-- **[Financial Fraud Detection System](https://github.com/your-username/repo-link)**  
+- **[Financial Fraud Detection System](https://github.com/vennala488/FinGuard.git)**  
   ML model to predict fraud probability in transactions, with a FastAPI backend and real-time monitoring dashboard.
 
-- **[Phishing URL Detection](https://github.com/your-username/repo-link)**  
+- **[Phishing URL Detection](https://github.com/vennala488/phishing_detection.git)**  
   Classification model to detect phishing websites using feature engineering and supervised learning.
 
 ---
